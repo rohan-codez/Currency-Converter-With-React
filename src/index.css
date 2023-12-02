@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 'lion': '#c0a185',
+      'raisinBlack': '#1a1a24',
+      'powderBlue': '#8eaec3' */
+
+.css-bg-lion {
+    background-color: #c0a185;
+}
+
+.css-powder-blue {
+    color: #8eaec3;
+}
+
+.css-raisin-black {
+    color: #1a1a24;
+}
+
+.css-bounding {
+    width: fit-content;
+    overflow: hidden
+}
